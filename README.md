@@ -57,15 +57,7 @@
 
 ---
 
-## 🏆 Achievements & GitHub Highlights
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark" />
-
-</p>
-
----
-
+<!--   <img src="https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark" /> -->
 ## 🤝 Connect with Me
 
 <p align="center">
